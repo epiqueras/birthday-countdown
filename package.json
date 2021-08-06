@@ -1,0 +1,13 @@
+{
+  "name": "@epiqueras/birthday-countdown",
+  "description": "Birthday Countdown",
+  "repository": "github:epiqueras/birthday-countdown",
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "prettier": "^2.3.2"
+  },
+  "scripts": {
+    "test": "prettier --write ."
+  }
+}
